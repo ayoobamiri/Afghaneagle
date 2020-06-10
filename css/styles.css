@@ -1,0 +1,52 @@
+/* .navbar-nav {
+    float: none;
+    text-align: center;
+}
+
+.navbar-nav li {
+display: inline-block;
+float: none;
+} */
+
+.jumbotron {
+    /* background-image: url("../img/02.jpg"); */
+    background-image: gray;
+    background-size: cover;
+  }
+
+  .carousel {
+    
+    border: 1px solid #222222;
+}
+
+.nav-link{
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    margin-right: 40px; 
+    margin-left: 10px; 
+}
+
+
+
+
+
+  .fa-phone{
+    font-size: 35px;
+  }
+  .fa-envelope-o{
+    font-size: 30px;
+  }
+
+  .info-header {
+    /* width: 50%; */
+    margin: auto;
+    border-bottom: 1px #ddd solid; }
+
+    .ptext{
+        text-align: center;
+    }
+ 

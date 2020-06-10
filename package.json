@@ -1,0 +1,19 @@
+{
+  "name": "own-bootstrap",
+  "version": "1.0.0",
+  "description": "Afghan Nature Stone",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Amiri",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
